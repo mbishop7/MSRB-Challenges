@@ -5,6 +5,8 @@ def accrued():
     n = x[:i+4]
     print (round(float(n), 2))
 
+    
+
 def dollar():
     dollar = float(input())
     x = str(dollar)
